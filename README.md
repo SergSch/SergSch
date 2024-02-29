@@ -24,9 +24,10 @@ I'm beginner in frontend development, looking for work and excited to dive into 
 <img src="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="16.2" title="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/bceb421c2000df2a641f0ca1d423b7bb497f3a79c47197510f07d8c3ba407559/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d6337653663373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462" alt="mongodb" data-canonical-src="https://img.shields.io/badge/mongodb-c7e6c7?style=for-the-badge&amp;logo=mongodb" style="max-width: 100%;">
 
-![](https://komarev.com/ghpvc/?username=SergSch&color=yellowgreen)
 
 <img src="https://camo.githubusercontent.com/cfa2853d56d8cccb12be37e108e84b580363463ab37b884d7b7101c291730886/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38632f63632f36363863636362336637333466333432653037633031383565366439613937352e706e67" width="48" data-canonical-src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" style="max-width: 100%;">
+
+![](https://komarev.com/ghpvc/?username=SergSch&color=yellowgreen)
 
 ![Serg's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergSch&show_icons=true&theme=transparent)
 
