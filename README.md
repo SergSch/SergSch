@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Serg 👋
 
 I'm beginner in frontend development, looking for work and excited to dive into real-world projects.
 
