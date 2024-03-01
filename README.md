@@ -27,8 +27,11 @@ I'm beginner in frontend development, looking for work and excited to dive into 
 
 <img src="https://camo.githubusercontent.com/cfa2853d56d8cccb12be37e108e84b580363463ab37b884d7b7101c291730886/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38632f63632f36363863636362336637333466333432653037633031383565366439613937352e706e67" width="48" data-canonical-src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" style="max-width: 100%;">
 
+--------------------------------------------------------------------------
+
 ![](https://komarev.com/ghpvc/?username=SergSch&color=yellowgreen)
 
-![Serg's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergSch&show_icons=true&theme=transparent)
+<img align="left" width="42%" height="160px" alt="Serg's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SergSch&show_icons=true&theme=transparent"/>
+<img align="right" width="42%" height="160px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergSch&layout=compact"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergSch&layout=compact)](https://github.com/SergSch/github-readme-stats)
+
